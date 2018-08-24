@@ -1,5 +1,5 @@
 .box-center {
-    margin: 30% auto;
+    margin: 22% auto;
     width: 350px;
     border: 0px solid #333;
 }
@@ -9,4 +9,10 @@
 }
 .search {
     color: gray
+}
+
+.footer {
+    color: gray;
+    text-align: right;
+    padding: 1.8%; 
 }
